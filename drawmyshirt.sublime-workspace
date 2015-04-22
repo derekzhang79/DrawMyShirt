@@ -1,0 +1,409 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"draw",
+				"draw_svg_from_url"
+			],
+			[
+				"itm_",
+				"itm_nam"
+			],
+			[
+				"sh",
+				"shirt_color"
+			],
+			[
+				"ngk",
+				"ng-keyup	AngularJS"
+			],
+			[
+				"con",
+				"controller	Angular.js"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"ngh",
+				"ng-href	AngularJS"
+			],
+			[
+				"pos",
+				"pos_top"
+			],
+			[
+				"$scop",
+				"$scope	AngularJS"
+			],
+			[
+				"$sc",
+				"$scope	AngularJS"
+			],
+			[
+				"ngr",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"ngcl",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-c",
+				"ng-controller	AngularJS"
+			],
+			[
+				"lore",
+				"lorem	Lorem ipsum"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 6550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "partials/drawshirt.html",
+			"settings":
+			{
+				"buffer_size": 5771,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "iden",
+		"selected_items":
+		[
+			[
+				"iden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 191.0,
+		"history":
+		[
+			"node",
+			"git",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/DrawMyShirt",
+		"/C/wamp/www/DrawMyShirt/css",
+		"/C/wamp/www/DrawMyShirt/js",
+		"/C/wamp/www/DrawMyShirt/js/libs",
+		"/C/wamp/www/DrawMyShirt/partials"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/DrawMyShirt/index.html",
+		"/C/wamp/www/DrawMyShirt/js/libs/jquery.spinner.js",
+		"/C/wamp/www/DrawMyShirt/js/draw_svg.js",
+		"/C/wamp/www/DrawMyShirt/js/libs/bootstrap-spinedit.js",
+		"/C/wamp/www/DrawMyShirt/css/libs/bootstrap-spinedit.css",
+		"/C/wamp/www/DrawMyShirt/css/dms.css",
+		"/C/wamp/www/DrawMyShirt/js/shirt_Editor.js",
+		"/C/wamp/www/DrawMyShirt/css/libs/bootstrap-colorselector.css",
+		"/C/wamp/www/DrawMyShirt/partials/drawshirt.html",
+		"/C/wamp/www/DrawMyShirt/js/app.js",
+		"/C/wamp/www/DrawMyShirt/js/libs/bootstrap-colorselector.js",
+		"/C/Users/DRISS/Desktop/jquery-simplecolorpicker-master/demo.html",
+		"/C/wamp/www/DrawMyShirt/js/libs/jquery.simplecolorpicker.js",
+		"/C/wamp/www/DrawMyShirt/css/libs/jquery.simplecolorpicker.css",
+		"/C/Users/DRISS/Desktop/jquery-simplecolorpicker-master/jquery.simplecolorpicker-fontawesome.css",
+		"/C/wamp/www/DrawMyShirt/partials/shirt_Editor.html",
+		"/C/wamp/www/DrawMyShirt/partials/about.html",
+		"/C/wamp/www/DrawMyShirt/css/libs/font-awesome.css",
+		"/C/wamp/www/DrawMyShirt/server/js/server.js",
+		"/C/Users/DRISS/Desktop/comments-1/public/index.html",
+		"/C/Users/DRISS/Desktop/todo-app-angular/public/js/todo.js",
+		"/C/Users/DRISS/Desktop/test_dpd/hello-world/public/index.html",
+		"/C/Users/DRISS/Desktop/todo-app-angular/public/index.html",
+		"/C/Users/DRISS/Desktop/comments-1/public/script.js",
+		"/C/Users/DRISS/Desktop/Tomobil.ma/js/app.js",
+		"/C/wamp/www/DrawMyShirt/server/js/node_modules/firebase/node_modules/faye-websocket/examples/server.js",
+		"/C/wamp/www/DrawMyShirt/server/js/node_modules/firebase/node_modules/faye-websocket/examples/client.js",
+		"/C/Users/DRISS/Desktop/test_express_js/myapp/app.js",
+		"/C/wamp/www/DrawMyShirt/server/js/node_modules/firebase-server/index.js",
+		"/C/Users/DRISS/Desktop/test_hot_key/index.html",
+		"/C/wamp/www/DrawMyShirt/partials/home.html",
+		"/C/wamp/www/DrawMyShirt/partials/contact.html",
+		"/C/Users/DRISS/Desktop/test_ui_bootstrap/index.html",
+		"/C/Users/DRISS/Desktop/test_ui_bootstrap/app.js",
+		"/C/wamp/www/DrawMyShirt/js/bb-dialog-v4.x.js",
+		"/C/Users/DRISS/Desktop/Tomobil.ma/index.html",
+		"/C/Users/DRISS/Desktop/jQuery-Font-Chooser-master/examples/fontselector.css",
+		"/C/Users/DRISS/Desktop/jQuery-Font-Chooser-master/examples/example.html",
+		"/C/wamp/www/DrawMyShirt/css/font-awesome.css",
+		"/C/Users/DRISS/Desktop/Fabric_js/js/app.js",
+		"/C/Users/DRISS/Desktop/Fabric_js/index.html",
+		"/C/wamp/www/DrawMyShirt0/js/app.js",
+		"/C/Users/DRISS/Desktop/test_ng_route/script.js",
+		"/C/Users/DRISS/Desktop/startbootstrap-shop-homepage-1.0.3/index.html",
+		"/C/wamp/www/DrawMyShirt0/index2.html",
+		"/C/wamp/www/DrawMyShirt/script.js",
+		"/C/Users/DRISS/Desktop/DrawMyShirt/css/shop-homepage.css",
+		"/C/Users/DRISS/Desktop/DrawMyShirt/index.html",
+		"/C/wamp/www/movieApp/index.html",
+		"/C/Users/DRISS/Desktop/Tomobil.ma/js/modal.js",
+		"/C/wamp/bin/apache/apache2.4.9/conf/httpd.conf",
+		"/C/wamp/vhosts/none",
+		"/C/Users/DRISS/Desktop/Tomobil.ma/app.js",
+		"/C/Users/DRISS/Desktop/test_ng/js/filter.js",
+		"/C/Users/DRISS/Desktop/test_ng/test.html",
+		"/C/Users/DRISS/Desktop/test_ng/test.js",
+		"/C/Program Files/Sublime Text 3/Packages/SQL.sublime-package"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chevro",
+			"<div class=\"row\" ng-controller=\"ModalDemoCtrl\" hotkey=\"delete\" invoke=\"action($event)\">\n	<script type=\"text/ng-template\" id=\"myModalContent.html\">\n        <div class=\"modal-header\">\n            <h3 class=\"modal-title\">I m a modal!</h3>\n        </div>\n        <div class=\"modal-body\">\n	        <div class=\"row\">\n	        	<div class=\"col-xs-6 col-md-3\" ng-repeat=\"item in items\">\n				    <a  class=\"thumbnail\"  ng-click=\"selected.item = item\">{{ item }}\n				    </a>\n				 </div>\n	        </div>\n            Selected: <b>{{ selected.item }}</b>\n        </div>\n        <div class=\"modal-footer\">\n            <button class=\"btn btn-primary\" ng-click=\"ok()\">OK</button>\n            <button class=\"btn btn-warning\" ng-click=\"cancel()\">Cancel</button>\n        </div>\n    </script>\n	<div class=\"col-md-3\">\n		<div class=\"panel panel-default\">\n		  <div class=\"panel-heading\">\n		   Personalisez Votre Produit\n		  </div>\n		  <div class=\"panel-body\">\n		    <div class=\"input-append\">\n			  <input  id=\"text-string\" type=\"text\" placeholder=\"add text here...\" ng-keyup=\"edit_key_up\">\n			  <button id=\"add-text\" class=\"btn btn-default\" title=\"Add text\" ng-click=\"add_text()\"><i class=\"fa fa-share\"></i></button>\n			  <hr>\n			</div>\n\n			<div class=\"list-group\">\n        \n        <a class=\"list-group-item\" ng-click=\"draw_svg_from_url()\"><i class=\"fa fa fa-smile-o\">&nbsp;</i> Ajoutez un designe</a>\n        <a class=\"list-group-item\" href=\"#\"><i class=\"fa fa-file-image-o\">&nbsp;</i> Importez une photo\n        </a>\n        \n        \n\n      </div>\n			\n			<div id=\"avatarlist\">\n				<img style=\"cursor:pointer;\" class=\"img-polaroid\" src=\"img/invisibleman.jpg\"/>\n			</div>\n			\n		  </div>\n		</div>\n	</div>\n\n	\n	<div class=\"col-md-6\">\n	<div class=\"btn-group\" role=\"group\" id=\"texteditor\">\n		<button type=\"button\" class=\"btn btn-default dropdown-toggle\" data-toggle=\"dropdown\">\n	      fonts\n	      <span class=\"caret\"></span>\n	    </button>\n    	<ul class=\"dropdown-menu\" role=\"menu\">\n		    <li ng-repeat=\"font in fonts_liste\"><a ng-click=\"setFont(font);\" class=\"{{font}}\">{{font}}</a></li>\n        </ul>\n        <!-- <button type=\"button\" class=\"btn btn-default\" aria-label=\"Left Align\" ng-click=\"text_align('left')\"><i class=\"fa fa-align-left\" ></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Center Align\" ng-click=\"text_align('center')\"><i class=\"fa fa-align-center\"></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Right Align\" ng-click=\"text_align('right')\"><i class=\"fa fa-align-right\"></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Justify\" ng-click=\"text_align('justify')\"><i class=\"fa fa-align-justify\"></i></button> -->\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Strike\" ng-click=\"text_strike()\"><i class=\"fa fa-strikethrough\"></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Bold\" ng-click=\"text_bold()\"><i class=\"fa fa-bold\"></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Italic\" ng-click=\"text_italic()\"><i class=\"fa fa-italic\"></i></button>\n        <button type=\"button\" class=\"btn btn-default\" aria-label=\"Underline\" ng-click=\"text_underline()\"><i class=\"fa fa-underline\"></i></button>\n        <button class=\"btn btn-default\">\n     		<select id=\"colorselector\" class=\"btn btn-default\">\n		    <option value=\"106\" data-color=\"#000000\" selected=\"selected\">black</option>\n		    <option value=\"106\" data-color=\"#A0522D\">sienna</option>\n		    <option value=\"47\" data-color=\"#CD5C5C\" >indianred</option>\n		    <option value=\"87\" data-color=\"#FF4500\">orangered</option>\n		    \n		    <option value=\"15\" data-color=\"#DC143C\">crimson</option>\n		    <option value=\"24\" data-color=\"#FF8C00\">darkorange</option>\n		    <option value=\"78\" data-color=\"#C71585\">mediumvioletred</option>\n		</select>\n     	</button>\n     </div>\n     <div class=\"btn-group\">\n     	<button type=\"button\" class=\"btn btn-default\" aria-label=\"Delete\" ng-click=\"delete_selected()\"><i class=\"fa fa-trash-o\"></i></button>\n     	\n     	\n     </div>\n	\n		<div id=\"shirtDiv\" class=\"page\" style=\"width: 530px; height: 630px; position: relative; background-color: rgb(255, 255, 255);\">\n			<img id=\"tshirtFacing\" src=\"./img/crew_front.png\"></img>\n			<div id=\"drawingArea\" style=\"position: absolute;top: 100px;left: 160px;z-index: 10;width: 200px;height: 400px;\">					\n				<canvas id=\"myCanvas\" width=200 height=\"400\" class=\"hover\" style=\"-webkit-user-select: none;\"></canvas>\n			</div>\n		</div>\n	</div>\n	\n	<div class=\"col-md-3\">\n	<div class=\"panel panel-default\">\n		  <div class=\"panel-heading\">\n		   Propriété Produit\n		  </div>\n		  <div class=\"panel-body\">\n		  	<div class=\"list-groupe\">\n			\n			<a class=\"list-group-item\" ng-click=\"open('lg')\">\n        	<i class=\"fa fa-home fa-folder-open\" >&nbsp;</i> Choisissez un produit\n        </a>\n		</div>\n		<span class=\"label label-info\">Choisissez la couleur du Produit</span>\n			<div class=\"well\">\n				<ul >\n					<li ng-repeat=\"color in shirt_color\" class=\"color-preview\" title=\"{{color.title}}\" style=\"background-color:{{color.bg_color}};\" ng-click=\"change_shirt_color(color.bg_color)\"></li>\n				</ul>\n			</div>\n			<span class=\"label label-info\">Choisissez la Taille</span>\n			<div class=\"well\">\n				 <form role=\"form\">\n				    <label class=\"radio-inline\">\n				      <input type=\"radio\" name=\"optradio\">M\n				    </label>\n				    <label class=\"radio-inline\">\n				      <input type=\"radio\" name=\"optradio\">L\n				    </label>\n				    <label class=\"radio-inline\">\n				      <input type=\"radio\" name=\"optradio\" checked=\"checked\">XL\n				    </label>\n				  </form>\n			</div>\n		</div>\n	</div>\n		\n      \n      </div>\n</div>\n",
+			"\">\n",
+			"	\n",
+			"color",
+			"glyphicons-halflings-regular",
+			"font",
+			"markupDiv",
+			"spa",
+			"selected-ok",
+			"selected",
+			"font",
+			"\"/>\n",
+			"colorpicker-change-background-color",
+			"change",
+			"selectColor",
+			"simplecolorpicker",
+			"simplecolorpicker icon",
+			"background-color: rgb(220, 33, 39)",
+			"background-color: rgb(220, 33, 39);",
+			"colorpicker-picker-options-disabled",
+			"<button type=\"button\" class=\"btn btn-default\" aria-label=\"Strike\" ng-click=\"text_strike()\"><i class=\"fa fa-strikethrough\"></i></button>",
+			"<button type=\"button\" class=\"btn btn-default\" aria-label=\"Justify\" ng-click=\"text_align('justify')\"><i class=\"fa fa-align-justify\"></i></button>",
+			"text-string",
+			"add-text",
+			"color",
+			"mod_authz_host",
+			"mod_authz_hos",
+			"access",
+			"three",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2041,
+								2041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1031.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "partials/drawshirt.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5771,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5109,
+								5109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2109.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "drawmyshirt.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
